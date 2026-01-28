@@ -1,4 +1,4 @@
-module github.com/caddy-dns/lego-deprecated
+module github.com/Gaste8/lego-deprecated
 
 go 1.25.5
 
